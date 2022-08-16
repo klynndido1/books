@@ -1,0 +1,58 @@
+.Books {
+  padding: 20px;
+  border: 1px solid #B0B0B0;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+}
+
+.Books form {
+  padding: 10px;
+  width: 300px;
+  flex: 0 0 300px;
+  border-right: 1px solid #D7D7D7;
+}
+
+.Books form input {
+  width: 100%;
+  padding: 8px 12px;
+}
+
+.Books form button {
+  margin-top: 10px;
+  width: 100%;
+  padding: 8px 12px;
+}
+
+
+
+.Books main {
+  padding: 10px;
+  margin-left: 20px;
+  flex: 1;
+}
+
+.Books main table {
+  border-collapse: collapse;
+  border-color: inherit;
+  text-indent: 0;
+  width: 100%;
+}
+
+.Books main table th {
+  font-weight: bold;
+  padding: 4px 6px;
+  background-color: #E8EAEC;
+  text-align: left;
+}
+
+.Books main table td {
+  padding: 4px 6px;
+  text-align: left;
+}
+
+.Books main table tr {
+  padding: 4px 6px;
+  border-bottom: 1px solid #D7D7D7;
+}
