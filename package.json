@@ -1,0 +1,7 @@
+{
+  "name": "books",
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}
