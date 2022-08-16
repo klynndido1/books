@@ -3,5 +3,8 @@
   "workspaces": [
     "client",
     "server"
-  ]
+  ],
+  "scripts": {
+    "start": "echo \"You need to run 'npm run start' in ./client or./server\" && exit 1"
+  }
 }
